@@ -1,0 +1,16 @@
+{
+	"name": "hello-world-npx",
+	"version": "0.0.1",
+	"description": "testing the awesome new npx utility",
+	"main": "index.js",
+	"repository": "https://github.com/Offirmo/hello-world-npx.git",
+	"author": "Offirmo <offirmo.net@gmail.com>",
+	"license": "UNLICENSED",
+	"bin": "./index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"dependencies": {
+		"cfonts": "^1.1.3"
+	}
+}
