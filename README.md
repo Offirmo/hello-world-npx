@@ -1,6 +1,20 @@
 # hello-world-npx
 Trying the awesome new npm -> npx feature !
 
+## Usage
+Using npm >= 5.2.0:
+
+```bash
+npx hello-world-npx
+```
+
+If the latest version is not taken, use:
+
+```bash
+npx hello-world-npx --ignore-existing
+```
+
+
 
 ## Interesting reads
 
