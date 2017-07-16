@@ -6,6 +6,10 @@
 	"repository": "https://github.com/Offirmo/hello-world-npx.git",
 	"author": "Offirmo <offirmo.net@gmail.com>",
 	"license": "UNLICENSED",
+	"engines": {
+		"node": ">= 8",
+		"npm": ">= 5.2"
+	},
 	"bin": "./index.js",
 	"scripts": {
 		"start": "node index.js"
