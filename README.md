@@ -8,7 +8,7 @@ Using npm >= 5.2.0:
 npx hello-world-npx
 ```
 
-If the latest version is not taken, use:
+If the latest version is not taken into account (cache), use:
 
 ```bash
 npx hello-world-npx --ignore-existing
